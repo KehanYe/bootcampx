@@ -1,0 +1,10 @@
+1. What is default order for GROUP BY? 
+The default order of ORDER BY command is ascending order. 
+So, if you didn't use ASC or DESC , results will come in ascending order.
+
+2. if we don't specify which able a column refers to (aka name vs student.name), 
+SQL will only work if there's one potential option
+
+3. Database error - RIGHT and FULL OUTER JOINs are not currently supported
+By doing a left join and switching the tables
+
